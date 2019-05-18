@@ -1,1 +1,2 @@
 Esperando que GIT sea mas facil para utilizar
+Ya que vamos a usar comando que tenemos el machete
